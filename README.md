@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sakshi-19165/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0867-transpose-matrix](https://github.com/sakshi-19165/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/sakshi-19165/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sakshi-19165/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sakshi-19165/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sakshi-19165/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
